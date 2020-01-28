@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-27T18:53:18 EET" name="Default suite" finished-at="2019-12-27T18:53:18 EET" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2019-12-27T18:53:18 EET" name="Default test" finished-at="2019-12-27T18:53:18 EET" duration-ms="87">
+      <class name="BoundryTest">
+        <test-method signature="acceptFriendTest()[pri:0, instance:BoundryTest@3b938003]" started-at="2019-12-27T18:53:18 EET" name="acceptFriendTest" finished-at="2019-12-27T18:53:18 EET" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acceptFriendTest -->
+        <test-method signature="addFriendTest()[pri:0, instance:BoundryTest@3b938003]" started-at="2019-12-27T18:53:18 EET" name="addFriendTest" finished-at="2019-12-27T18:53:18 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addFriendTest -->
+        <test-method signature="signUPTest()[pri:0, instance:BoundryTest@3b938003]" started-at="2019-12-27T18:53:18 EET" name="signUPTest" finished-at="2019-12-27T18:53:18 EET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUPTest -->
+      </class> <!-- BoundryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

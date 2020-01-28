@@ -1,0 +1,3 @@
+Khaled,123456,fruit,15/12/1999,012760166539,khaled@email.com,egypt,male,0
+Khaled,123456,fruit,15/12/1999,012760166539,khaled@email.com,egypt,male,0
+Hussien,123456,fruit,15/12/1999,012760166539,hussien@email.com,egypt,male,0
